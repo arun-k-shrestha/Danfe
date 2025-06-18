@@ -3,7 +3,7 @@
 
 Danfe is an AI stock app offering insider data, news analysis, and data visualization. Get actionable insights for smarter investments.
 
-Visti: [danfe.ai](https://danfe.ai/) 
+Visit: [danfe.ai](https://danfe.ai/) 
 
 
 
